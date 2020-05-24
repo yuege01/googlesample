@@ -1,11 +1,3 @@
-This is my first repository and my first commit.
+# About Me
 
-ADD more messages to our README.md
-
-My name is Ziwei Fang
-
-Today is good
-
-This time might crash
-
-Let's see if git will crash
+This is my about me project. It's not *everything* about me, but it's a start
